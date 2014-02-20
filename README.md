@@ -1,4 +1,4 @@
 MakoUnityUtils
 ==============
 
-My Unity utils collection
+Unityでよく使う小さなコード集です。
